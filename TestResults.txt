@@ -1,0 +1,44 @@
+CNN
+--- Métriques sur le jeu de test ---
+Test Loss: 0.2795
+Accuracy: 92.28%
+F1-Score (weighted): 0.9227
+
+--- Temps de calcul ---
+Temps écoulé : 4.55 secondes
+
+CNNBiLSTM
+--- Métriques sur le jeu de test ---
+Test Loss: 0.2355
+Accuracy: 92.86%
+F1-Score (weighted): 0.9289
+
+--- Temps de calcul ---
+Temps écoulé : 5.06 secondes
+
+CNN1D2D
+--- Métriques sur le jeu de test ---
+Test Loss: 0.4940
+Accuracy: 85.03%
+F1-Score (weighted): 0.8497
+
+--- Temps de calcul ---
+Temps écoulé : 5.07 secondes
+
+CNNOne
+--- Métriques sur le jeu de test ---
+Test Loss: 0.6387
+Accuracy: 83.56%
+F1-Score (weighted): 0.8360
+
+--- Temps de calcul ---
+Temps écoulé : 4.63 secondes
+
+CNNTrad
+--- Métriques sur le jeu de test ---
+Test Loss: 0.4562
+Accuracy: 87.10%
+F1-Score (weighted): 0.8714
+
+--- Temps de calcul ---
+Temps écoulé : 4.66 secondes

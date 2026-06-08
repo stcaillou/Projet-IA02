@@ -1,0 +1,54 @@
+(.venv) PS F:\Projet IA> py .\optuna-training.py
+[I 2026-06-07 15:52:07,281] A new study created in memory with name: no-name-ec004060-b88d-4056-8a4b-0f251b082c18
+[I 2026-06-07 15:53:25,161] Trial 0 finished with value: 0.46738803727081457 and parameters: {'batch_size': 64, 'lr': 0.003319876314456169, 'weight_decay': 5.285730349805286e-06, 'dropout': 0.30000000000000004}. Best is trial 0 with value: 0.46738803727081457.
+[I 2026-06-07 15:54:42,669] Trial 1 finished with value: 0.03676986273920449 and parameters: {'batch_size': 64, 'lr': 0.005854957001637623, 'weight_decay': 7.411196585717881e-07, 'dropout': 0.4}. Best is trial 0 with value: 0.46738803727081457.
+[I 2026-06-07 15:56:00,003] Trial 2 finished with value: 0.8369902815349164 and parameters: {'batch_size': 64, 'lr': 0.00029087831633419175, 'weight_decay': 2.5921483523444744e-05, 'dropout': 0.2}. Best is trial 2 with value: 0.8369902815349164.
+[I 2026-06-07 15:57:34,351] Trial 3 finished with value: 0.742811341548943 and parameters: {'batch_size': 32, 'lr': 0.00021847191560092453, 'weight_decay': 0.000674285534366421, 'dropout': 0.4}. Best is trial 2 with value: 0.8369902815349164.
+[I 2026-06-07 15:59:45,689] Trial 4 finished with value: 0.6729786594529606 and parameters: {'batch_size': 16, 'lr': 0.0012292085279404777, 'weight_decay': 4.804339507084817e-07, 'dropout': 0.1}. Best is trial 2 with value: 0.8369902815349164.
+[I 2026-06-07 16:00:49,661] Trial 5 pruned.
+[I 2026-06-07 16:02:21,779] Trial 6 finished with value: 0.8365895200881676 and parameters: {'batch_size': 32, 'lr': 0.0005022439020362256, 'weight_decay': 7.509923992301981e-06, 'dropout': 0.2}. Best is trial 2 with value: 0.8369902815349164.
+[I 2026-06-07 16:03:19,893] Trial 7 pruned.
+[I 2026-06-07 16:04:45,693] Trial 8 pruned.
+[I 2026-06-07 16:06:55,674] Trial 9 pruned.
+[I 2026-06-07 16:08:15,574] Trial 10 finished with value: 0.7957118525197876 and parameters: {'batch_size': 64, 'lr': 6.831787234144592e-05, 'weight_decay': 1.1724867488868095e-07, 'dropout': 0.0}. Best is trial 2 with value: 0.8369902815349164.
+[I 2026-06-07 16:09:55,459] Trial 11 finished with value: 0.8404969441939686 and parameters: {'batch_size': 32, 'lr': 0.00045527495426587783, 'weight_decay': 1.3927126259445865e-05, 'dropout': 0.2}. Best is trial 11 with value: 0.8404969441939686.
+[I 2026-06-07 16:11:32,503] Trial 12 finished with value: 0.8463079851718265 and parameters: {'batch_size': 32, 'lr': 0.00019771648785031802, 'weight_decay': 2.425680816617174e-05, 'dropout': 0.2}. Best is trial 12 with value: 0.8463079851718265.
+[I 2026-06-07 16:13:09,060] Trial 13 finished with value: 0.8491133152990682 and parameters: {'batch_size': 32, 'lr': 0.00012467908235384942, 'weight_decay': 9.937382321452295e-06, 'dropout': 0.1}. Best is trial 13 with value: 0.8491133152990682.
+[I 2026-06-07 16:14:49,344] Trial 14 finished with value: 0.8321811441739305 and parameters: {'batch_size': 32, 'lr': 8.55335627562426e-05, 'weight_decay': 2.9587337616441754e-06, 'dropout': 0.0}. Best is trial 13 with value: 0.8491133152990682.
+[I 2026-06-07 16:15:55,185] Trial 15 pruned.
+[I 2026-06-07 16:17:02,877] Trial 16 pruned.
+[I 2026-06-07 16:18:24,944] Trial 17 pruned.
+[I 2026-06-07 16:19:30,326] Trial 18 pruned.
+[I 2026-06-07 16:20:33,788] Trial 19 pruned.
+[I 2026-06-07 16:21:55,799] Trial 20 pruned.
+[I 2026-06-07 16:23:32,804] Trial 21 finished with value: 0.8380923755134756 and parameters: {'batch_size': 32, 'lr': 0.0004458240174174269, 'weight_decay': 1.7741393479638193e-05, 'dropout': 0.2}. Best is trial 13 with value: 0.8491133152990682.
+[I 2026-06-07 16:24:51,909] Trial 22 pruned.
+[I 2026-06-07 16:26:00,177] Trial 23 pruned.
+[I 2026-06-07 16:27:09,311] Trial 24 pruned.
+[I 2026-06-07 16:29:26,621] Trial 25 finished with value: 0.8736599539124337 and parameters: {'batch_size': 16, 'lr': 0.00015250580701112705, 'weight_decay': 2.972295063826224e-06, 'dropout': 0.1}. Best is trial 25 with value: 0.8736599539124337.
+[I 2026-06-07 16:31:37,172] Trial 26 finished with value: 0.8613365394249073 and parameters: {'batch_size': 16, 'lr': 0.00013101079188094063, 'weight_decay': 1.9924947873671373e-06, 'dropout': 0.0}. Best is trial 25 with value: 0.8736599539124337.
+[I 2026-06-07 16:32:56,196] Trial 27 pruned.
+[I 2026-06-07 16:35:13,403] Trial 28 finished with value: 0.8633403466586514 and parameters: {'batch_size': 16, 'lr': 0.00012565518930676207, 'weight_decay': 1.8395014152072985e-07, 'dropout': 0.0}. Best is trial 25 with value: 0.8736599539124337.
+[I 2026-06-07 16:36:30,213] Trial 29 pruned.
+[I 2026-06-07 16:39:06,541] Trial 30 pruned.
+[I 2026-06-07 16:41:23,645] Trial 31 finished with value: 0.8669471996793908 and parameters: {'batch_size': 16, 'lr': 0.00014519631780058432, 'weight_decay': 4.428858869989303e-06, 'dropout': 0.1}. Best is trial 25 with value: 0.8736599539124337.
+[I 2026-06-07 16:42:41,435] Trial 32 pruned.
+[I 2026-06-07 16:44:53,684] Trial 33 finished with value: 0.8550245466386134 and parameters: {'batch_size': 16, 'lr': 0.00010470511168845869, 'weight_decay': 1.2473130744277511e-06, 'dropout': 0.0}. Best is trial 25 with value: 0.8736599539124337.
+[I 2026-06-07 16:47:08,503] Trial 34 finished with value: 0.8579300671275424 and parameters: {'batch_size': 16, 'lr': 0.00030023817507865435, 'weight_decay': 3.5975126077762044e-07, 'dropout': 0.1}. Best is trial 25 with value: 0.8736599539124337.
+[I 2026-06-07 16:49:19,316] Trial 35 finished with value: 0.8673479611261397 and parameters: {'batch_size': 16, 'lr': 0.00020192209200068037, 'weight_decay': 1.9332466292597435e-06, 'dropout': 0.0}. Best is trial 25 with value: 0.8736599539124337.
+[I 2026-06-07 16:50:36,170] Trial 36 pruned.
+[I 2026-06-07 16:52:44,594] Trial 37 finished with value: 0.8713555755936279 and parameters: {'batch_size': 16, 'lr': 0.0002506911228499483, 'weight_decay': 7.756575367280191e-07, 'dropout': 0.0}. Best is trial 25 with value: 0.8736599539124337.
+[I 2026-06-07 16:54:52,207] Trial 38 finished with value: 0.8526199779581204 and parameters: {'batch_size': 16, 'lr': 0.00025333458825288984, 'weight_decay': 7.492902444214081e-07, 'dropout': 0.1}. Best is trial 25 with value: 0.8736599539124337.
+[I 2026-06-07 16:56:06,078] Trial 39 pruned.
+[I 2026-06-07 16:57:23,153] Trial 40 pruned.
+[I 2026-06-07 16:59:30,747] Trial 41 finished with value: 0.876264903316301 and parameters: {'batch_size': 16, 'lr': 0.0001623172373025387, 'weight_decay': 3.063659576681252e-07, 'dropout': 0.0}. Best is trial 41 with value: 0.876264903316301.
+[I 2026-06-07 17:01:39,298] Trial 42 finished with value: 0.8632401562969643 and parameters: {'batch_size': 16, 'lr': 0.0001913884664278114, 'weight_decay': 3.338854440631498e-07, 'dropout': 0.0}. Best is trial 41 with value: 0.876264903316301.
+[I 2026-06-07 17:02:38,053] Trial 43 pruned.
+[I 2026-06-07 17:04:47,983] Trial 44 finished with value: 0.8695521490832582 and parameters: {'batch_size': 16, 'lr': 0.00019211009071970858, 'weight_decay': 8.604829865390246e-07, 'dropout': 0.0}. Best is trial 41 with value: 0.876264903316301.
+[I 2026-06-07 17:06:56,498] Trial 45 finished with value: 0.8765654744013626 and parameters: {'batch_size': 16, 'lr': 0.00021495551281313965, 'weight_decay': 7.109975589372269e-07, 'dropout': 0.0}. Best is trial 45 with value: 0.8765654744013626.
+[I 2026-06-07 17:09:03,647] Trial 46 finished with value: 0.8595331129145376 and parameters: {'batch_size': 16, 'lr': 0.0004450389086290135, 'weight_decay': 6.871981885194391e-07, 'dropout': 0.0}. Best is trial 45 with value: 0.8765654744013626.
+[I 2026-06-07 17:10:02,134] Trial 47 pruned.
+[I 2026-06-07 17:12:12,377] Trial 48 pruned.
+[I 2026-06-07 17:14:28,602] Trial 49 finished with value: 0.8656447249774571 and parameters: {'batch_size': 16, 'lr': 0.00025569718034090534, 'weight_decay': 3.2270191784378306e-07, 'dropout': 0.1}. Best is trial 45 with value: 0.8765654744013626.
+Meilleur paramètres : {'batch_size': 16, 'lr': 0.00021495551281313965, 'weight_decay': 7.109975589372269e-07, 'dropout': 0.0}
+Meilleur accuracy : 0.8765654744013626
