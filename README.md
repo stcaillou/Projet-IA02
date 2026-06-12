@@ -1,7 +1,7 @@
 # README - Projet IA02 : Classification d'images et reconnaissance vocale
 
-**Auteurs** : Daria EZHOVA, Nina COIFFIN, Pierre RIBET
-**Date** : Juin 2026
+**Auteurs** : Daria EZHOVA, Nina COIFFIN, Pierre RIBET<br>
+**Date** : Juin 2026<br>
 **Contexte** : Projet en intelligence artificielle (IA02) - Classification d'images (CIFAR-10) et *keyword spotting* (Speech Commands).
 
 
