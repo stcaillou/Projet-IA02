@@ -4,9 +4,6 @@
 **Date** : Juin 2026
 **Contexte** : Projet en intelligence artificielle (IA02) - Classification d'images (CIFAR-10) et *keyword spotting* (Speech Commands).
 
----
-
----
 
 ## **Objectifs du projet**
 1. **Partie I : Classification d'images (CIFAR-10)**
@@ -20,8 +17,7 @@
    - Réaliser un **augmentation de données** et en mesurer l'impact.
    - Implémenter un **test en temps réel** avec microphone.
 
----
----
+
 
 ## **Structure du projet**
 ```bash
