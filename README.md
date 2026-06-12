@@ -43,6 +43,6 @@ IA02/
 │   ├── test_CNNModule.py         # Tests unitaires pour les CNN
 │   └── training_CNNModule.py     # Script d'entraînement des CNN
 │
-├── Rapport_IA02-5.pdf            # Rapport détaillé du projet
+├── Rapport_IA02.pdf            # Rapport détaillé du projet
 └── .gitignore                    # Fichiers exclus du versionnage Git
 ```
