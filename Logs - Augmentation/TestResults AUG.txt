@@ -1,0 +1,62 @@
+CNN - 3epochs
+--- Métriques sur le jeu de test ---
+Test Loss: 0.2654
+Accuracy: 92.09%
+F1-Score (weighted): 0.9207
+
+--- Temps de calcul ---
+Temps écoulé : 4.41 secondes
+
+
+CNN - 8epochs
+--- Métriques sur le jeu de test ---
+Test Loss: 0.2774
+Accuracy: 92.38%
+F1-Score (weighted): 0.9237
+
+--- Temps de calcul ---
+Temps écoulé : 4.79 secondes
+
+
+
+
+BiLSTM
+--- Métriques sur le jeu de test ---
+Test Loss: 0.2032
+Accuracy: 94.24%
+F1-Score (weighted): 0.9424
+
+--- Temps de calcul ---
+Temps écoulé : 5.13 secondes
+
+
+One
+--- Métriques sur le jeu de test ---
+Test Loss: 0.6090
+Accuracy: 82.92%
+F1-Score (weighted): 0.8292
+
+--- Temps de calcul ---
+Temps écoulé : 4.67 secondes
+
+
+
+CNN1D2D
+--- Métriques sur le jeu de test ---
+Test Loss: 0.3143
+Accuracy: 90.69%
+F1-Score (weighted): 0.9067
+
+--- Temps de calcul ---
+Temps écoulé : 5.89 secondes
+
+
+
+Trad
+--- Métriques sur le jeu de test ---
+Test Loss: 0.3882
+Accuracy: 89.73%
+F1-Score (weighted): 0.8972
+
+--- Temps de calcul ---
+Temps écoulé : 4.42 secondes
