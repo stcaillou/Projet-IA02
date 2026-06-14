@@ -34,7 +34,9 @@ IA02/
 │
 ├── *.ipynb                       # Notebooks d'exploration et d'analyse
 │   ├── ExplorationDonnées.ipynb # Analyse exploratoire des datasets
-│   └── PartieI.ipynb             # Expérimentations sur CIFAR-10
+│   ├── PartieI.ipynb             # Expérimentations sur CIFAR-10
+│   ├── Projet_IA02_1.ipynb             # Regression Logistique CIFAR-10
+│   └── Projet_IA02_2.ipynb             # Random forest CIFAR-10
 │
 ├── *.py                         # Scripts utilitaires
 │   ├── data_aug.py               # Augmentation de données (CIFAR-10/Speech Commands)
